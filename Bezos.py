@@ -1,5 +1,4 @@
- 
-import os, random,sys
+ import os, random,sys
  
 try:
     import openai
@@ -51,8 +50,6 @@ logo="""
 ⠄⠄⠄⠻⣿⣿⣿⣿⣿⡇⢀⣀⣤⢂⣤⣄⢸⣿⣿⣿⣿⣷⣶⣤⠄⢀⠘⠋
 ⠄⠄⠄⠄⠉⢿⣿⣿⣿⣿⣼⣿⣧⣿⡿⣱⣿⣿⣿⣿⣿⣿⡿⠉⠂⠄⠄⠠
 ⠄⠄⠄⠄⠄⠄⠙⣿⣿⣿⢸⠿⢿⣫⣾⣿⣿⣿⣿⣿⣿⠟⠁⠄⠄⡠⠁⠄
-
-
 develop={
 "FACEBOOK":"PR4T1K INX1D'3",
 "MAIN WORK":"Data Analyst",
